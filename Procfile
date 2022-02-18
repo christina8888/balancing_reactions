@@ -1,1 +1,1 @@
-worker: python3 balancing_reactions.py
+worker: python3 bot.py
